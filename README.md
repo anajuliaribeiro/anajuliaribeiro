@@ -25,8 +25,11 @@ Here is a little bit of what I have been doing:
 
 </div>
 
- ##
- 
+ ## My Resume
+ <a href="https://github.com/anajuliaribeiro/anajuliaribeiro/blob/main/Ana%20Julia%20F%20Ribeiro_CV.pdf" target="_blank" rel="noreferrer"><img src = 'https://user-images.githubusercontent.com/48497352/234620134-c499ac30-b84b-400f-af1e-5b2f67c24d6a.png' alt="c" width="40" height="40"/>
+ </a> 
+
+
 <div> 
   
   
