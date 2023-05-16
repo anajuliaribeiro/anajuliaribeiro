@@ -2,7 +2,7 @@
 Here is a little bit of what I have been doing:
 
 - 🔭 I’m currently working on image processing in my scientific initiation.
-- 🌱 I’m currently learning Dart, Flutter, React, JavaScript
+- 🌱 I’m currently learning Dart, Flutter
 
 
 <div style="display: inline_block"><br>
