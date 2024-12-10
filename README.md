@@ -1,8 +1,8 @@
 ### Hi there, my name is Ana Julia Ribeiro 👋
 Here is a little bit of what I have been doing:
 
-- 🔭 I’m currently working on image processing in my scientific initiation.
-- 🌱 I’m currently learning Dart, Flutter
+- 🔭 I’m currently working as a Data Engineering D&A Intern at Grupo Boticario
+
 
 
 <div style="display: inline_block"><br>
