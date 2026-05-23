@@ -31,7 +31,16 @@ I'm especially interested in transforming complex and messy data into reliable i
 
 Outside of work, I enjoy sports, going to the gym, and playing video games 🎮
 
+### Tools & Technologies
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</div>
 
 <div style="display: inline_block"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -53,11 +62,11 @@ Outside of work, I enjoy sports, going to the gym, and playing video games 🎮
 
 
 </div>
-
+<!--
  ## My Resume
  <a href="https://github.com/anajuliaribeiro/anajuliaribeiro/blob/main/Ana%20Julia%20F%20Ribeiro_CV.pdf" target="_blank" rel="noreferrer"><img src = 'https://user-images.githubusercontent.com/48497352/234620134-c499ac30-b84b-400f-af1e-5b2f67c24d6a.png' alt="c" width="40" height="40"/>
  </a> 
-
+-->
 
 <div> 
   
