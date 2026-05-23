@@ -1,7 +1,35 @@
 ### Hi there, my name is Ana Julia Ribeiro 👋
 Here is a little bit of what I have been doing:
 
-- 🔭 I’m currently working as a Data Engineering D&A Intern at Grupo Boticario
+## Hi, I'm Ana Julia 👋
+
+I'm a Data Analyst with a background in Computer Science and experience in Data Engineering, Analytics Engineering, BI, and Logistics Analytics.
+
+I started my career working with ETL processes, Airflow DAGs, BigQuery, data validation, documentation, and dashboard development. Currently, I work in logistics analytics, focusing on operational analysis, data quality, business metrics, and decision-making support.
+
+I'm especially interested in transforming complex and messy data into reliable insights, scalable data products, and customer-ready metrics.
+
+### Tools & Technologies
+- SQL / BigQuery
+- Python
+- Airflow
+- GCP
+- Looker / Looker Studio
+- Tableau
+- Excel
+- Data Quality
+- ETL / ELT
+- Analytics Engineering
+
+### Interests
+- Data Product
+- Data Operations
+- Analytics Engineering
+- Data Engineering
+- Business Intelligence
+- International data opportunities
+
+Outside of work, I enjoy sports, going to the gym, and playing video games 🎮
 
 
 
