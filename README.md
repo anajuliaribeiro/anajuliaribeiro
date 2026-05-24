@@ -3,7 +3,7 @@ Here is a little bit of what I have been doing:
 
 ## Hi, I'm Ana Julia 👋
 
-I'm a Data Analyst with a background in Computer Science and experience in Data Engineering, Analytics Engineering, BI, and Logistics Analytics.
+I'm a Data Analyst at Grupo Boticario with a background in Computer Science and experience in Data Engineering, Analytics Engineering, BI, and Logistics Analytics.
 
 I started my career working with ETL processes, Airflow DAGs, BigQuery, data validation, documentation, and dashboard development. Currently, I work in logistics analytics, focusing on operational analysis, data quality, business metrics, and decision-making support.
 
