@@ -14,12 +14,13 @@ I'm especially interested in transforming complex and messy data into reliable i
 - Python
 - Airflow
 - GCP
-- Looker / Looker Studio
-- Tableau
-- Excel
+- Looker / Looker Studio / Tableau
+- DataPrep
+- Excel /Microsoft Office
 - Data Quality
 - ETL / ELT
 - Analytics Engineering
+- Github
 
 ### Interests
 - Data Product
